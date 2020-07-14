@@ -19,3 +19,7 @@ Below, you will find a list of resources that could help or inspire you if you a
 * [Tripmode](https://www.tripmode.ch) - Control the internet consumption of the applications you have installed. Ideal for using mobile data.
 
 ## Activities
+* [getyourguide](https://www.getyourguide.com/) - Book tours, activities, and attractions.
+* [viator](https://www.viator.com/) - Book tours, activities, and attractions.
+* [civitatis](https://www.civitatis.com/) - Book tours, activities, and attractions.
+* [klook](https://www.klook.com/) - Book tours, activities, and attractions.
