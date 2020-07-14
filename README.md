@@ -11,7 +11,9 @@ Below, you will find a list of resources that could help or inspire you if you a
 * [nomadlist](https://nomadlist.com/) - Find the best places to live and work remotely for remote workers, based on cost of living, internet speed, weather and other metrics
 
 ## Blogs
-* [Mochileando por el mundo](http://mochileandoporelmundo.com/) - 🇪🇸 General advice on what to do, what to see and where to eat in a lot of countries.
+* [Mochileando por el mundo](http://mochileandoporelmundo.com/) - 🇪🇸  General advice on what to do, what to see and where to eat in a lot of countries.
+* [Viajar por filipinas](https://www.viajarporfilipinas.com) - 🇪🇸  Everything you need to prepare a trip to the philippines.
+
 
 ## Digital Tools
 * [Tripmode](https://www.tripmode.ch) - Control the internet consumption of the applications you have installed. Ideal for using mobile data.
