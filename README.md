@@ -6,6 +6,7 @@ Below, you will find a list of resources that could help or inspire you if you a
 * [Airbnb](https://airbnb.com) - Vacation rental online marketplace
 * [Booking](https://booking.com) - Online travel agency for lodging reservations.
 * [Agoda](https://www.agoda.com) - Online travel agency and metasearch engine for hotels and vacation rentals  **specialized in Asia**.
+* [Couchsurfing](https://www.couchsurfing.com) - Couchsurfing is a social network to stay with locals, host travelers, and ask for lodging.
 
 ## Webs
 * [nomadlist](https://nomadlist.com/) - Find the best places to live and work remotely for remote workers, based on cost of living, internet speed, weather and other metrics
